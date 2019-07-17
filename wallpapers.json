@@ -1,0 +1,20 @@
+{
+  "Collections": [
+    {
+      "name": "",
+      "preview_url": "",
+      "preview_thumbnail_url": ""
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "Wallpaper 1",
+      "author": "pixelflow",
+      "url": "",
+      "collections": "",
+      "copyright": "Free (do whatever you want)",
+      "downloadable": false,
+      "featured": true
+    }
+  ]
+}
