@@ -1,20 +1,8 @@
-{
-  "Collections": [
-    {
-      "name": "",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    }
-  ],
-  "Wallpapers": [
-    {
-      "name": "Wallpaper 1",
-      "author": "pixelflow",
-      "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%201.png",
-      "collections": "",
-      "copyright": "Free (do whatever you want)",
-      "downloadable": true,
-      "featured": true
-    }
-  ]
-}
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "Pixelflow",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%201.png",
+    "thumbUrl": ""
+  }
+]
