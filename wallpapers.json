@@ -1,8 +1,26 @@
 [
   {
-    "name": "Wallpaper 1",
+    "name": "Adaptive",
     "author": "Pixelflow",
-    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%201.png",
-    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%201.png"
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Adaptive.png",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Adaptive.png"
+  },
+  {
+    "name": "Dolomites",
+    "author": "Massimiliano Morosinotto",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Dolomites.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Dolomites.jpg"
+  },
+  {
+    "name": "Sunrise in Dubai",
+    "author": "Leonard von Bibra",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Sunrise%20in%20Dubai.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Sunrise%20in%20Dubai.jpg"
+  },
+  {
+    "name": "Beautiful night sky",
+    "author": "Hugo Kemmel",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Beautiful%20night%20sky.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Beautiful%20night%20sky.jpg"
   }
 ]
