@@ -1,26 +1,44 @@
 [
   {
-    "name": "Jurassic MOOD GEAR",
-    "author": "Massimiliano Morosinotto",
-    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Jurassic%20MOOD%20GEAR.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Jurassic%20MOOD%20GEAR.jpg"
+    "name": "Wallpaper 7",
+    "author": "Madhav",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%207.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%207.jpg"
   },
   {
-    "name": "Sunrise in Dubai",
-    "author": "Leonard von Bibra",
-    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Sunrise%20in%20Dubai.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Sunrise%20in%20Dubai.jpg"
-  },
-  {
-    "name": "Beautiful night sky",
+    "name": "Wallpaper 6",
     "author": "Hugo Kemmel",
-    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Beautiful%20night%20sky.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Beautiful%20night%20sky.jpg"
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%206.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%206.jpg"
   },
   {
-    "name": "Cyan",
+    "name": "Wallpaper 5",
+    "author": "Leonard Von Bibra",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%205.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%205.jpg"
+  },
+  {
+    "name": "Wallpaper 4",
+    "author": "Massimiliano Morosinotto",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%204.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%204.jpg"
+  },
+  {
+    "name": "Wallpaper 3",
     "author": "Will Turner",
-    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Cyan.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Cyan.jpg"
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%203.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%203.jpg"
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "Nabeel Hussain",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%202.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%202.jpg"
+  },
+  {
+    "name": "Wallpaper 1",
+    "author": "Matyas Prochy",
+    "url": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/Wallpaper%201.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/pxflow/AdaptiveIconPack/master/Wallpapers/thumbnails/Wallpaper%201.jpg"
   }
 ]
